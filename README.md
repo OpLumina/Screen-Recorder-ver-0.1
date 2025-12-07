@@ -39,3 +39,5 @@ Right click on desktop then:
 New ==> Shortcut
 
 Add the Path to the .exe in the shortcut menu. Lastly, click 'Next' then 'Finished'
+
+Report bugs to info@camaswebsolutions.com
