@@ -33,7 +33,7 @@ pip install pyinstaller
 cd <path_to_files>
 pyinstaller --onefile --windowed --icon=ScreenRecorderIcon.ico Record.py
 ```
-Copy the .exe path in <current_dir\dist>
+Copy the newly made .exe path from pyinstaller in <current_dir\dist>
 Right click on desktop then:
 
 New ==> Shortcut
