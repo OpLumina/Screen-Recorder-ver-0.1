@@ -2,7 +2,9 @@ Usage:
 
 Setup:
 ```
-cd <path_to_files>
+cd <path to where you want the files to go>
+git clone https://github.com/OpLumina/Screen-Recorder-ver-0.1
+cd Screen-Recorder-ver-0.1 (use 'ls' to find the new name if it's not that)
 python -m venv venv
 .\venv\Scripts\activate.ps1
 pip install -r requirements.txt
