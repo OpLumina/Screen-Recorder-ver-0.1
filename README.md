@@ -1,3 +1,5 @@
+A small project I coded so I didn't have to pay for one of the windows apps
+
 Usage:
 
 Setup:
