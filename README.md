@@ -17,7 +17,11 @@ python Record.py
 ```
 
 Buttons:
+
 Start: Starts recording
+
 Stop: Stops Recording
+
 Export: exports to .avi
+
 Pause: Pauses Recording
